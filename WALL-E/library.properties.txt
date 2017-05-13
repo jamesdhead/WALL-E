@@ -1,0 +1,17 @@
+name=WALL_E
+version=0.1
+
+author=James Head <james@theheadspot.com>
+
+maintainer=James Head <james@theheadspot.com>
+
+sentence=WALL-E Robot basic libraries.
+
+paragraph=WALL-E Robot project with I2C communication with raspberry pi.
+
+category=Communication
+url=https://github.com/jamesdhead
+
+architectures=avr
+
+includes=WALL-E.h
